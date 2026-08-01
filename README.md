@@ -36,6 +36,8 @@ A clean, modern weather app for Android and iOS, built with Flutter.
 ## 🚀 Download Here 
 https://github.com/CpSharp404/Weatherly/releases/tag/v1.0
 
+---
+
 ## 🔨 Tools Used
 ---
 | Package | Purpose |
