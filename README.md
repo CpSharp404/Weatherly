@@ -28,7 +28,7 @@ A clean, modern weather app for Android and iOS, built with Flutter.
 
 <div align="center">
 <img src="images/screenshot_home.png" width="230" alt="Home screen" />
-<img src="images/screenshot_hourly" width="230" alt="Hourly forecast" />
+<img src="images/screenshot_hourly.png" width="230" alt="7-Day forecast" />
 <img src="images/screenshot_search.png" width="230" alt="City search" />
 </div>
 
